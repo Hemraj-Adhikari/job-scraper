@@ -3,6 +3,8 @@
 
 # Job search keyword
 SEARCH_KEYWORD = "IT Support Administrator"
+SEARCH_KEYWORD = "Software Devloper"
+SEARCH_KEYWORD = "Graphic Designer"
 
 # Location to search (city, state or "remote")
 SEARCH_LOCATION = "Kathmandu"
